@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "mongoose": "^6.1.7"
+  },
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Learning and using mongodb with nodeJS",
+  "main": "nodemongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ncountry01/General-practice.git"
+  },
+  "keywords": [
+    "[mongodb",
+    "nodejs]"
+  ],
+  "author": "nir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ncountry01/General-practice/issues"
+  },
+  "homepage": "https://github.com/Ncountry01/General-practice#readme"
+}

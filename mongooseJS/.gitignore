@@ -1,0 +1,19 @@
+   ../Calculator1/
+       node_modules/
+        ../ExpressJSPractice/
+        ../MERN BackEnd/
+        ../ManRace/
+        ../RestfulApi/
+        ../TicTac/.gitignore
+        ../TicTac/Async.txt
+        ../TicTac/index.html
+        ../TicTac/input.txt
+        ../TicTac/input1.txt
+        ../TicTac/input1.txt.gz
+        ../TicTac/input2.txt
+        ../TicTac/output.txt
+        ../TicTac/package-lock.json
+        ../TicTac/package.json
+        ../TicTac/syninp.txt
+        ../TicTac/tictac.html.gz
+        ./
